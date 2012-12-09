@@ -1,4 +1,4 @@
 Anonymously-yours
 =================
 
-This is a personal blog, i write it here because i love the minimalistic UI.
+This is a personal blog, I write here because I love the UI.
